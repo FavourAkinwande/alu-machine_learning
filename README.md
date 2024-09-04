@@ -1,5 +1,6 @@
 # alu-machine_learning
-#Intranet Project 1
+# Intranet Project 1
+
 This project contains several plotting scripts that visualize different datasets using matplotlib and numpy. Each script demonstrates a different type of graph, including stacked bar charts, scatter plots, line plots, and histograms.
 
 Plots Overview:
@@ -24,6 +25,7 @@ Histogram - Student Grades
 
 A histogram displaying the distribution of grades for a group of students.
 The x-axis shows grade ranges (0-100), and the y-axis shows the number of students in each range.
+
 Requirements:
 numpy
 matplotlib
