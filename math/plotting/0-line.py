@@ -15,7 +15,7 @@ y = x ** 3
 # Plot y axis as a solid red line with x values
 plt.plot(x, y, color='red', linestyle='-')
 
-#Set x-axis ranage limits
+#Set x-axis range limits
 
 plt.xlim(0, 10)
 
