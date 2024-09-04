@@ -2,15 +2,18 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-# Define y as cubed values of the range from 0 to 10
-y = np.arange(0, 11) ** 3
+# Define x values (range from 0 to 10)
+x = np.arange(0, 11)
 
-# Plotting y with a solid red line
-plt.plot(np.arange(0, 11), y, 'r-')
+# y is the cubed values of x
+y = x ** 3
 
-# Set x-axis limits
+# Plot y axis as a solid red line with x values
+plt.plot(x, y, color='red', linestyle='-')
+
+#Set x-axis ranage limits
+
 plt.xlim(0, 10)
 
 # Displaying the plot
 plt.show()
-
