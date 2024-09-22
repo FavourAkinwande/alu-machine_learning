@@ -1,4 +1,4 @@
-i#!/usr/bin/env python3
+#!/usr/bin/env python3
 """Getting the adjugate matrix of a matrix"""
 
 
