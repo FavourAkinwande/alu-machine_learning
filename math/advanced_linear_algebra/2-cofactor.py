@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """Getting the cofactor"""
 
 
@@ -52,4 +51,4 @@ def minor(matrix):
             sign = (-1) ** ((x + y) % 2)
             t.append(determinant(s) * sign)
         mino.append(t)
-    return min:
+    return mino
