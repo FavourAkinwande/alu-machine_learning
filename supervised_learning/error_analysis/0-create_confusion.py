@@ -1,4 +1,5 @@
-onfusion matrix"""
+#!/usr/bin/env python3
+""" Confusion matrix"""
 
 import numpy as np
 
