@@ -1,5 +1,4 @@
-
-# !/usr/bin/env python3
+#!/usr/bin/env python3
 """
 defines Neuron class that defines
 a single neuron performing binary classification
